@@ -1,6 +1,8 @@
 # IIT Delhi US Trip — Registration Portal
  
 A single-page registration website built with PHP and MySQL for an IIT Delhi US trip program. Visitors can view trip details and submit a registration form, which is validated on both the client and server side before being stored in a database.
+
+Live Demo: https://registrationform.infinityfree.io/
  
 ## Preview
  
